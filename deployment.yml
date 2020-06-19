@@ -32,7 +32,7 @@ kind: Service
 metadata:
   labels:
     app: web
-  name: borealis_wordpress
+  name: borealis
 spec:
   ports:
   - port: 80
