@@ -6,7 +6,7 @@ pipeline {
 
     stage('Checkout Source') {
       steps {
-        git url:'https://github.com/sachinbhatela/playjenkins.git', branch:'pod'
+        git url:'https://github.com/sachinbhatela/wordpress.git', branch:'pod'
       }
     }
 
