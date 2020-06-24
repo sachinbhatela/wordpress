@@ -21,7 +21,7 @@ spec:
            - name: WORDPRESS_DB_HOST
              value: dbborealis.mysql.database.azure.com
            - name: WORDPRESS_DB_USER
-             value: dbborealis@dbborealis
+             value: dbborealis
            - name: WORDPRESS_DB_PASSWORD
              value: Welcome12#
            - name: WORDPRESS_DB_NAME
