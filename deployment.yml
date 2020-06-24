@@ -19,11 +19,11 @@ spec:
         name: wp
         env: 
            - name: WORDPRESS_DB_HOST
-             value: 20.185.245.126
+             value: dbborealis.mysql.database.azure.com
            - name: WORDPRESS_DB_USER
-             value: admin
+             value: dbborealis@dbborealis
            - name: WORDPRESS_DB_PASSWORD
-             value: admin
+             value: Welcome12#
            - name: WORDPRESS_DB_NAME
              value: wordpress
 ---
